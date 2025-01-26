@@ -1,4 +1,4 @@
-# itemlist_nf
+# Liste des items en jeu
 
 | Item  | Label |
 | ------------- | ------------- |
