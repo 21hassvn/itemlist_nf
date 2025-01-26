@@ -2,5 +2,5 @@
 
 | Item  | Label |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| collector_fossil_pet_wood_yellow_cat  | Yellow Cat Petrified Wood Fossil  |
 | Content Cell  | Content Cell  |
